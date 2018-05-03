@@ -1,2 +1,4 @@
 // Write your solution in this file!
-const driver = 'I am an object'
+const driver() {
+  return 'Hello World'
+}
